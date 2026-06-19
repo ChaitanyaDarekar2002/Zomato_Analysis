@@ -26,3 +26,6 @@ Your Zomato dataset in short:
 
 **Short business insight:**
 Most restaurants do not offer online delivery, and ratings vary by city, creating opportunities to improve services and customer satisfaction.
+
+**Zomato Dashborad Preview**
+<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/858a7a0c-80bd-421c-beb3-fab999e65319" />
